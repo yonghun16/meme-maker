@@ -1,0 +1,18 @@
+body {
+  flex-direction: column;
+}
+
+.canvas {
+  order: -1;
+  width: 100%;
+}
+
+.color-options {
+  flex-flow: wrap; 
+  flex-direction: row;
+  justify-content: center;
+}
+
+.btns {
+  width: 100%;
+}
